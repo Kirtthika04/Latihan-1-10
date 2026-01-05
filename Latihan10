@@ -1,0 +1,4 @@
+distance= float(input("Enter the Distance Travelled(km):"));
+time= int(input("Enter the Time (hours):"));
+speed= distance/time
+print("The Average Speed is",speed)
