@@ -1,0 +1,8 @@
+name= input("Enter the Name:");
+a= float(input("Enter Mark Subject 1:"));
+b= float(input("Enter Mark Subject 2:"));
+c= float(input("Enter Mark Subject 3:"));
+total=a+b+c
+average=total/3
+print("Total Marks:",total);
+print("Average Marks:",average)
