@@ -1,0 +1,3 @@
+a= float(input("Enter the length:"));
+b= float(input("Enter the width:"));
+print("The Area of Rectangle:",(a*b))
