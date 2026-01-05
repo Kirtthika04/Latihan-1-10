@@ -1,0 +1,3 @@
+price= float(input("Enter the Price (RM):"));
+quantity= int(input("Enter the Quantity:"));
+print("Total:RM",(price*quantity))
